@@ -1,21 +1,40 @@
-# Hi there 👋, I'm [Your Name]
+👋 Hi there, I'm Bhagya Lakshan
+🚀 About Me
 
-## 🚀 About Me
-- 🔭 I’m currently working on [project or job]
-- 🌱 I’m learning [technologies or skills]
-- 💬 Ask me about [topics you’re knowledgeable about]
-- 📫 How to reach me: [email/linkedin/twitter]
+I’m a passionate Computer Science undergraduate and technology enthusiast who thrives at the intersection of AI, software engineering, and social impact.
+I love building scalable solutions that create real-world value — whether it’s developing web applications using React & Spring Boot or exploring AI-powered innovations that drive positive change.
 
-## 🛠️ Tech Stack
-- **Frontend:** React, HTML, CSS, Bootstrap
-- **Backend:** Node.js, Spring Boot
-- **Databases:** MongoDB, PostgreSQL
-- **Tools & Platforms:** Git, Docker, GitHub Actions
+Beyond coding, I’m deeply involved in career guidance and educational outreach across Sri Lanka through initiatives like Career Compass and IEEE Sri Lanka Inspire, empowering students to find their purpose and potential.
 
-## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+🔭 Currently working on: AI-based Aflatoxin Detection System for Corn in Sri Lanka
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](YOUR_TWITTER_URL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge)](YOUR_PORTFOLIO_URL)
+🌱 Learning more about: Machine Learning, Model Deployment, and Data Science Applications
+
+💬 Ask me about: React, Spring Boot, AI/ML, Project Management, or Career Guidance Programs
+
+🎯 Mission: To bridge technology and opportunity — ensuring every student can dream beyond limits.
+
+🌍 Based in: Sri Lanka
+
+🛠️ Tech Stack
+
+Frontend: React, HTML, CSS, Bootstrap, Tailwind CSS
+Backend: Spring Boot, Node.js
+Databases: PostgreSQL, MongoDB
+AI/ML Tools: TensorFlow, scikit-learn, OpenCV
+Tools & Platforms: Git, Docker, Firebase, GitHub Actions
+
+📈 GitHub Stats
+
+
+
+
+🌟 Featured Projects
+
+🧠 AI Aflatoxin Detection in Corn – ML-powered image classification system for agricultural safety
+
+🦁 Safari Booking Platform – Full-stack React + Spring Boot system with AI caption generation
+
+📚 Career Compass – Nationwide mentorship & career guidance initiative impacting rural schools
+
+🔗 Connect with Me
