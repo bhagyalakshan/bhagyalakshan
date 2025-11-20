@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">Bhagya Lakshan</span></h1>
-<h1 align="center">👋 Hi, I'm <span style="color:#915EFF;">Bhagya Lakshan</span></h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&center=true&vCenter=true&width=470&lines=Software+Engineer+%7C+Full+Stack+Developer;AI+%2F+ML+Enthusiast;Open+Source+Contributor;Building+Smart+%26+Impactful+Systems" alt="Typing SVG"/>
