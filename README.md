@@ -1,63 +1,128 @@
-🔥 Bhagya Lakshan
-Software Engineer | AI/ML Researcher | Full-Stack Developer
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&duration=2500&pause=800&center=true&vCenter=true&color=9F73FF&width=600&lines=Engineering+Smart+%26+Impactful+Systems;AI+%2F+ML+Researcher+from+Sri+Lanka;Building+Production-Ready+Real-World+Products" /> </p> <div align="center">
+<div align="center">
+<!-- HEADER -->
+<h1 style="border-bottom: 2px solid #7928CA; padding-bottom: 10px;">
+👋 Hi, I'm <span style="color:#00D1FF;">Bhagya Lakshan</span>
+</h1>
+
+<p>
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26duration%3D2500%26pause%3D500%26color%3D00D1FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DSoftware%2BEngineer%2B%257C%2BFull%2BStack%2BDeveloper%3BAI%2B%252F%2BML%2BResearcher%3BBuilding%2BSmart%2B%2526%2BImpactful%2BSystems%3BAlways%2BLearning%2B%2526%2BCreating" />
+</p>
+
+<p>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dbhagyalakshan%26style%3Dflat-square%26color%3D7928CA" alt="Profile views counter" />
+</p>
+</div>
+
+<!-- ABOUT -->
+
+🎯 About Me
+
+I'm a passionate Software Engineer and AI/ML Researcher dedicated to creating robust, scalable, and intelligent software solutions. Based in Sri Lanka 🇱🇰, I focus on transforming challenging real-world problems into impactful technical applications.
+
+🌟 Currently Focused On:
+
+Aflatoxin Detection in Corn: Developing a high-accuracy CNN model for food safety using a massive 15,000+ image dataset.
+
+Kumana Wild Trails: Building an AI-driven, smart safari experience application with real-time tracking and intelligent data logging.
+
+Industry Research: Analyzing the adoption and potential of AI, ML, and Data Science within the Sri Lankan tech sector.
+
+<!-- SKILLS -->
+
+🛠️ Core Technology Stack
+
+<div align="center">
+
+Programming Languages
+
+<p>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,js,ts,python,dart,cpp%26perline%3D6" alt="Languages" />
+</p>
+
+Frameworks & Platform
+
+<p>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dspring,react,nextjs,nodejs,express,flutter,tensorflow%26perline%3D7" alt="Frameworks" />
+</p>
+
+Data & Cloud Infrastructure
+
+<p>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpostgres,mysql,firebase,aws,docker,kubernetes%26perline%3D6" alt="Databases and Cloud" />
+</p>
+
+Tools & Devops
+
+<p>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,figma,postman,vscode%26perline%3D5" alt="Tools" />
+</p>
 
 </div>
-🌐 About Me
 
-I’m a results-driven Software Engineer, AI/ML Researcher, and Tech Community Contributor passionate about designing scalable systems, building AI-powered products, and delivering clean, reliable engineering solutions.
+<!-- PROJECTS -->
 
-🚀 Current Focus
+🚀 Featured High-Impact Projects
 
-🌾 Aflatoxin Detection using Vision Models (15,000+ images)
+🦁 Kumana Wild Trails: AI-Powered Safari Tracking System
 
-🦁 Kumana Wild Trails — AI-driven Smart Safari Platform
+<p align="left">
+A modern application designed to enhance the national park experience by leveraging location intelligence and AI.
+</p>
 
-🧠 Researching AI/ML adoption and industry readiness in Sri Lanka
+Real-time GPS: Accurate tourist and vehicle tracking within the park boundaries.
 
-🛠️ Tech Expertise
-Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,js,ts,python,dart,cpp" height="45"/> </p>
-Frameworks & Libraries
-<p align="center"> <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,flutter" height="45"/> </p>
-Databases & Cloud
-<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,aws" height="45"/> </p>
-Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,figma,postman,docker,kubernetes" height="45"/> </p>
-🚀 Featured Projects
-🦁 Kumana Wild Trails – AI-Powered Safari Intelligence System
+Gemini AI: Integrates Gemini to generate descriptive captions and tags for logged sightings.
 
-Enterprise-grade safari management platform
-✔ Real-time GPS tracking
-✔ AI captions using Gemini
-✔ Data heat maps & wildlife patterns
-✔ Wildlife logging dashboard
+Data Visualization: Generates animal sighting heat maps for conservation analysis.
 
-🌾 Aflatoxin Detection Model
+🌾 Aflatoxin Detection Model: Deep Learning for Food Safety
 
-Computer Vision for Food Safety
-✔ 15,000+ curated corn images
-✔ CNN / Vision Transformer experiments
-✔ Predict aflatoxin percentage
-✔ Supports agricultural research & automation
+<p align="left">
+A critical research project focusing on rapid detection of mycotoxins in agricultural goods.
+</p>
 
-🌐 Safari Booking Web System
+Model Type: Custom CNN and vision models for precise prediction.
 
-✔ React + Spring Boot
-✔ Automated safari booking + notifications
-✔ Admin analytics dashboard
-✔ Modern UX for wildlife tourism
+Data: Trained and validated on over 15,000+ real-world corn images.
 
-📊 GitHub Metrics & Insights
-<p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=bhagyalakshan&show_icons=true&theme=midnight-purple&hide_border=true" /> <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyalakshan&theme=midnight-purple&hide_border=true" /> </p>
-⏳ Activity Timeline
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagyalakshan&theme=react-dark&hide_border=true&area=true" /> </p>
+Impact: Supports rapid diagnostics and global food security research.
+
+<!-- STATS -->
+
+📈 GitHub Performance Metrics
+
+<div align="center">
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dbhagyalakshan%26show_icons%3Dtrue%26theme%3Dsynthwave%26hide_border%3Dtrue%26border_radius%3D10" alt="GitHub Stats" />
+<img width="48%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dbhagyalakshan%26theme%3Dnightowl%26hide_border%3Dtrue%26border_radius%3D10" alt="GitHub Streak" />
+</div>
+
+Contribution Activity
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dbhagyalakshan%26theme%3Dgithub-dark-blue%26hide_border%3Dtrue%26area%3Dtrue%26line%3D7928CA" alt="Contribution Graph" />
+</p>
+
 🏆 Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=bhagyalakshan&theme=onestar&no-frame=true&row=1&column=7" /> </p>
-🌍 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/bhagya-lakshan/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a> <a href="mailto:bhagyalakshanofficial@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a> <a href="https://github.com/bhagyalakshan"><img src="https://skillicons.dev/icons?i=github" height="50"/></a> </p>
-💜 Support My Work
 
-If you enjoy my projects, giving a ⭐ on GitHub means a lot!
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dbhagyalakshan%26theme%3Dmatrix%26margin-w%3D10%26no-frame%3Dtrue%26row%3D1%26column%3D6" alt="GitHub Trophies" />
+</p>
 
-<p align="center"> <b>✨ Keep Building. Keep Innovating. Keep Inspiring. ✨</b> </p>
+<!-- CONNECT -->
+
+🔗 Connect & Collaborate
+
+<p align="center">
+<a href="https://www.linkedin.com/in/bhagya-lakshan/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="mailto:bhagyalakshanofficial@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+<a href="https://github.com/bhagyalakshan"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+</p>
+
+<!-- FOOTER -->
+
+<h3 align="center">
+If you find my work valuable, please consider giving a ⭐ — it fuels my passion for building open-source tech!
+</h3>
+<h2 align="center" style="color:#7928CA;">
+✨ Keep Innovating. Keep Learning. ✨
+</h2>
